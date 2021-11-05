@@ -10,5 +10,7 @@ public class Numbers {
         return l * a;
     }
 
-
+    public Boolean divisivel(int n, int d){
+        return n % d == 0;
+    }
 }
