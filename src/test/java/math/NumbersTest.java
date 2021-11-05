@@ -34,7 +34,7 @@ public class NumbersTest extends TestCase {
 
     @Test
     public void testAreaRetangulo() {
-        assertEquals(100, n.areaRetangulo(20,  5));
+        assertEquals(100, n.areaRetangulo(19,  5));
     }
 
     @Test
